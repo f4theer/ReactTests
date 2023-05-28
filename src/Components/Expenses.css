@@ -1,0 +1,35 @@
+* {
+  font-size: 1rem;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.main-container {
+  justify-content: space-between;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  background-color: rgb(128, 128, 128);
+}
+
+.expense-date {
+  border: 1px solid rgb(228, 228, 228);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #5ca4df;
+}
+
+.expense-description {
+  border: 1px solid rgb(228, 228, 228);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #5ca4df;
+}
+.expense-price {
+  border: 1px solid rgb(228, 228, 228);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #5ca4df;
+  border-color: solid black;
+}
